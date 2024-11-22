@@ -8,4 +8,4 @@
 
 ## Repository Organization
 
-This GitHub repository contains some proofs and codes written during the Advanced Numerical Analysis course of the Scientific and Data-Intensive Computing master degree at Università degli Studi di Trieste & SISSA (2023-2024)
+This GitHub repository contains some proofs and codes written for the **Advanced Numerical Analysis** course of the *Scientific and Data-Intensive Computing* master degree at Università degli Studi di Trieste & SISSA (2023-2024)
